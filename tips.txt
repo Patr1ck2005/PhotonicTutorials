@@ -1,0 +1,14 @@
+参考书:
+Fundamentals of Photonics
+Photonic Crystal: Modeling the flow of light
+
+必要程序:
+二选一: Lumerical FDTD 2023R1 // COMSOL 6.2
+二选一: python // Matlab
+可选: LaTex, Mathmatica, ...
+
+在线课程:
+EMPossible (Youtube)
+
+
+tips: Youtube 上有一些学术会议录屏. 可以听听.
